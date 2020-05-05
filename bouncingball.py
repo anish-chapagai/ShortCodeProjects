@@ -1,4 +1,4 @@
-import pygame as pg
+import pygame as pg  #59 lines
 pg.init()
 screen_size = (800,600)
 running = True
